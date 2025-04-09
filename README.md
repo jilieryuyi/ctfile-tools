@@ -1,6 +1,9 @@
 # ctfile-tools
+````
 城通网盘迅雷直连下载工具，不限速
-
+windows客户端以及chrome扩展
+mac或者linux可选择使用chrome扩展
+````
 ## 联系作者获取
 ![加微信 yuyi297341015](w.png)
 
